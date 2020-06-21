@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# All-in-One WP Migration Backups
+wp-content/ai1wm-backups/
