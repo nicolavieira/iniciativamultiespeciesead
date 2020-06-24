@@ -1,6 +1,6 @@
 # Iniciativa Multiespécies
 
-Repositório do site Iniciativa Multiespécies, que irá abrigar o projeto Roteiros Animais, da Segunda Edição do Laboratório de Emergência Covid-19.
+Repositório do site [Iniciativa Multiespécies](https://iniciativamultiespecies.net/), que irá abrigar o projeto [Roteiros Animais](https://labdeemergencia.silo.org.br/2ed/pt/roteiros-animais/), da [Segunda Edição do Laboratório de Emergência Covid-19](https://labdeemergencia.silo.org.br/2ed/pt/).
 
 ## Roteiros Animais: sobre o projeto
 
@@ -8,10 +8,10 @@ O projeto aplica os conceitos de ciência cidadã, saúde única e saúde silves
 
 ## Tecnologias
 
-O site será desenvolvido na plataforma Wordpress, tema ainda a decidir.
+O protótipo foi desenvolvido na plataforma [Wordpress](https://wordpress.org/), utilizando o tema [Ocean](https://oceanwp.org/) para interface e o plugin [LearnPress](https://thimpress.com/learnpress/) para a parte pedagógica.
 
 ## Prazo
 
-O prazo para publicação do site para teste é no dia 21/06/2020.
+O prazo para publicação do protótipo para teste é no dia 21/06/2020, no endereço: [Iniciativa Multiespécies](https://iniciativamultiespecies.net/).
 
 
